@@ -71,3 +71,11 @@ Suggested resume bullet (edit to reflect work you actually complete):
 
 ## Publish to GitHub
 Create a public repository named `powerbi-retail-sales-analytics`, upload this folder, and enable GitHub Pages using `portfolio_website/` as the site source (or copy its contents to the repository root /docs as required by your Pages configuration). See `docs/GITHUB_AND_PORTFOLIO.md`.
+
+
+<img width="1306" height="727" alt="image" src="https://github.com/user-attachments/assets/f00ac529-19d5-4a77-85dc-dcc0d1658d27" />
+<img width="1348" height="721" alt="image" src="https://github.com/user-attachments/assets/2ffe0e05-d8a6-4052-96e6-fbf811dc6bf0" />
+<img width="1312" height="727" alt="image" src="https://github.com/user-attachments/assets/3928ca95-bfd5-4238-b3b0-7aacb31c56b6" />
+
+
+
