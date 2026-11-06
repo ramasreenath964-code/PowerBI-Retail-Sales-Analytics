@@ -1,0 +1,1585 @@
+TargetMonth,RegionKey,Category,SalesTarget
+2023-01-01,1,Electronics,74256
+2023-01-01,1,Furniture,47033
+2023-01-01,1,Home & Kitchen,78524
+2023-01-01,1,Office Supplies,47063
+2023-01-01,2,Electronics,29955
+2023-01-01,2,Furniture,68256
+2023-01-01,2,Home & Kitchen,64605
+2023-01-01,2,Office Supplies,84866
+2023-01-01,3,Electronics,30954
+2023-01-01,3,Furniture,56639
+2023-01-01,3,Home & Kitchen,67580
+2023-01-01,3,Office Supplies,49062
+2023-01-01,4,Electronics,40733
+2023-01-01,4,Furniture,42621
+2023-01-01,4,Home & Kitchen,25641
+2023-01-01,4,Office Supplies,62468
+2023-01-01,5,Electronics,71699
+2023-01-01,5,Furniture,52070
+2023-01-01,5,Home & Kitchen,27357
+2023-01-01,5,Office Supplies,71370
+2023-01-01,6,Electronics,79496
+2023-01-01,6,Furniture,61401
+2023-01-01,6,Home & Kitchen,30224
+2023-01-01,6,Office Supplies,49715
+2023-01-01,7,Electronics,59141
+2023-01-01,7,Furniture,82180
+2023-01-01,7,Home & Kitchen,54948
+2023-01-01,7,Office Supplies,25675
+2023-01-01,8,Electronics,67260
+2023-01-01,8,Furniture,66369
+2023-01-01,8,Home & Kitchen,39127
+2023-01-01,8,Office Supplies,49647
+2023-01-01,9,Electronics,27575
+2023-01-01,9,Furniture,32297
+2023-01-01,9,Home & Kitchen,43663
+2023-01-01,9,Office Supplies,30561
+2023-01-01,10,Electronics,41563
+2023-01-01,10,Furniture,63959
+2023-01-01,10,Home & Kitchen,47962
+2023-01-01,10,Office Supplies,33866
+2023-01-01,11,Electronics,62464
+2023-01-01,11,Furniture,76364
+2023-01-01,11,Home & Kitchen,60427
+2023-01-01,11,Office Supplies,43655
+2023-02-01,1,Electronics,73399
+2023-02-01,1,Furniture,45630
+2023-02-01,1,Home & Kitchen,25911
+2023-02-01,1,Office Supplies,64607
+2023-02-01,2,Electronics,68119
+2023-02-01,2,Furniture,38209
+2023-02-01,2,Home & Kitchen,47617
+2023-02-01,2,Office Supplies,25422
+2023-02-01,3,Electronics,53199
+2023-02-01,3,Furniture,51749
+2023-02-01,3,Home & Kitchen,40487
+2023-02-01,3,Office Supplies,56672
+2023-02-01,4,Electronics,65736
+2023-02-01,4,Furniture,51753
+2023-02-01,4,Home & Kitchen,72740
+2023-02-01,4,Office Supplies,52479
+2023-02-01,5,Electronics,49558
+2023-02-01,5,Furniture,64944
+2023-02-01,5,Home & Kitchen,35279
+2023-02-01,5,Office Supplies,75741
+2023-02-01,6,Electronics,61297
+2023-02-01,6,Furniture,46930
+2023-02-01,6,Home & Kitchen,39068
+2023-02-01,6,Office Supplies,72405
+2023-02-01,7,Electronics,25835
+2023-02-01,7,Furniture,28761
+2023-02-01,7,Home & Kitchen,61461
+2023-02-01,7,Office Supplies,53815
+2023-02-01,8,Electronics,35309
+2023-02-01,8,Furniture,47569
+2023-02-01,8,Home & Kitchen,71973
+2023-02-01,8,Office Supplies,52956
+2023-02-01,9,Electronics,56687
+2023-02-01,9,Furniture,30488
+2023-02-01,9,Home & Kitchen,68269
+2023-02-01,9,Office Supplies,33329
+2023-02-01,10,Electronics,39008
+2023-02-01,10,Furniture,42608
+2023-02-01,10,Home & Kitchen,50855
+2023-02-01,10,Office Supplies,41411
+2023-02-01,11,Electronics,73945
+2023-02-01,11,Furniture,48105
+2023-02-01,11,Home & Kitchen,27135
+2023-02-01,11,Office Supplies,52435
+2023-03-01,1,Electronics,32396
+2023-03-01,1,Furniture,38270
+2023-03-01,1,Home & Kitchen,60479
+2023-03-01,1,Office Supplies,62153
+2023-03-01,2,Electronics,64995
+2023-03-01,2,Furniture,47549
+2023-03-01,2,Home & Kitchen,75272
+2023-03-01,2,Office Supplies,28608
+2023-03-01,3,Electronics,47748
+2023-03-01,3,Furniture,39621
+2023-03-01,3,Home & Kitchen,27483
+2023-03-01,3,Office Supplies,58608
+2023-03-01,4,Electronics,28408
+2023-03-01,4,Furniture,61412
+2023-03-01,4,Home & Kitchen,76290
+2023-03-01,4,Office Supplies,72979
+2023-03-01,5,Electronics,65873
+2023-03-01,5,Furniture,39728
+2023-03-01,5,Home & Kitchen,64211
+2023-03-01,5,Office Supplies,58732
+2023-03-01,6,Electronics,54652
+2023-03-01,6,Furniture,53566
+2023-03-01,6,Home & Kitchen,33506
+2023-03-01,6,Office Supplies,75910
+2023-03-01,7,Electronics,75188
+2023-03-01,7,Furniture,68799
+2023-03-01,7,Home & Kitchen,57862
+2023-03-01,7,Office Supplies,32919
+2023-03-01,8,Electronics,63073
+2023-03-01,8,Furniture,82526
+2023-03-01,8,Home & Kitchen,32955
+2023-03-01,8,Office Supplies,46312
+2023-03-01,9,Electronics,79349
+2023-03-01,9,Furniture,82275
+2023-03-01,9,Home & Kitchen,51743
+2023-03-01,9,Office Supplies,42113
+2023-03-01,10,Electronics,42211
+2023-03-01,10,Furniture,53136
+2023-03-01,10,Home & Kitchen,44170
+2023-03-01,10,Office Supplies,58027
+2023-03-01,11,Electronics,29781
+2023-03-01,11,Furniture,28815
+2023-03-01,11,Home & Kitchen,25286
+2023-03-01,11,Office Supplies,67939
+2023-04-01,1,Electronics,80416
+2023-04-01,1,Furniture,31282
+2023-04-01,1,Home & Kitchen,79891
+2023-04-01,1,Office Supplies,34849
+2023-04-01,2,Electronics,27890
+2023-04-01,2,Furniture,42414
+2023-04-01,2,Home & Kitchen,42554
+2023-04-01,2,Office Supplies,82644
+2023-04-01,3,Electronics,31750
+2023-04-01,3,Furniture,83386
+2023-04-01,3,Home & Kitchen,76710
+2023-04-01,3,Office Supplies,54358
+2023-04-01,4,Electronics,65380
+2023-04-01,4,Furniture,56999
+2023-04-01,4,Home & Kitchen,79601
+2023-04-01,4,Office Supplies,37710
+2023-04-01,5,Electronics,82338
+2023-04-01,5,Furniture,50082
+2023-04-01,5,Home & Kitchen,80923
+2023-04-01,5,Office Supplies,84065
+2023-04-01,6,Electronics,75881
+2023-04-01,6,Furniture,72447
+2023-04-01,6,Home & Kitchen,51084
+2023-04-01,6,Office Supplies,66843
+2023-04-01,7,Electronics,39683
+2023-04-01,7,Furniture,41704
+2023-04-01,7,Home & Kitchen,69486
+2023-04-01,7,Office Supplies,70783
+2023-04-01,8,Electronics,40688
+2023-04-01,8,Furniture,82993
+2023-04-01,8,Home & Kitchen,65926
+2023-04-01,8,Office Supplies,84277
+2023-04-01,9,Electronics,53729
+2023-04-01,9,Furniture,60987
+2023-04-01,9,Home & Kitchen,64138
+2023-04-01,9,Office Supplies,34643
+2023-04-01,10,Electronics,41775
+2023-04-01,10,Furniture,82844
+2023-04-01,10,Home & Kitchen,65427
+2023-04-01,10,Office Supplies,57482
+2023-04-01,11,Electronics,25164
+2023-04-01,11,Furniture,27300
+2023-04-01,11,Home & Kitchen,58395
+2023-04-01,11,Office Supplies,29889
+2023-05-01,1,Electronics,33537
+2023-05-01,1,Furniture,59635
+2023-05-01,1,Home & Kitchen,82653
+2023-05-01,1,Office Supplies,75117
+2023-05-01,2,Electronics,52929
+2023-05-01,2,Furniture,81491
+2023-05-01,2,Home & Kitchen,61356
+2023-05-01,2,Office Supplies,81666
+2023-05-01,3,Electronics,39261
+2023-05-01,3,Furniture,59716
+2023-05-01,3,Home & Kitchen,80346
+2023-05-01,3,Office Supplies,83884
+2023-05-01,4,Electronics,76603
+2023-05-01,4,Furniture,33975
+2023-05-01,4,Home & Kitchen,62134
+2023-05-01,4,Office Supplies,30680
+2023-05-01,5,Electronics,47964
+2023-05-01,5,Furniture,26816
+2023-05-01,5,Home & Kitchen,70562
+2023-05-01,5,Office Supplies,71447
+2023-05-01,6,Electronics,30546
+2023-05-01,6,Furniture,79995
+2023-05-01,6,Home & Kitchen,75362
+2023-05-01,6,Office Supplies,75390
+2023-05-01,7,Electronics,51835
+2023-05-01,7,Furniture,81378
+2023-05-01,7,Home & Kitchen,83986
+2023-05-01,7,Office Supplies,57884
+2023-05-01,8,Electronics,47710
+2023-05-01,8,Furniture,70782
+2023-05-01,8,Home & Kitchen,27648
+2023-05-01,8,Office Supplies,45202
+2023-05-01,9,Electronics,25263
+2023-05-01,9,Furniture,70994
+2023-05-01,9,Home & Kitchen,27580
+2023-05-01,9,Office Supplies,70182
+2023-05-01,10,Electronics,58939
+2023-05-01,10,Furniture,51136
+2023-05-01,10,Home & Kitchen,62858
+2023-05-01,10,Office Supplies,27625
+2023-05-01,11,Electronics,73666
+2023-05-01,11,Furniture,40975
+2023-05-01,11,Home & Kitchen,75550
+2023-05-01,11,Office Supplies,78111
+2023-06-01,1,Electronics,58045
+2023-06-01,1,Furniture,60235
+2023-06-01,1,Home & Kitchen,80410
+2023-06-01,1,Office Supplies,49305
+2023-06-01,2,Electronics,48856
+2023-06-01,2,Furniture,81843
+2023-06-01,2,Home & Kitchen,49233
+2023-06-01,2,Office Supplies,46986
+2023-06-01,3,Electronics,25355
+2023-06-01,3,Furniture,44684
+2023-06-01,3,Home & Kitchen,39980
+2023-06-01,3,Office Supplies,71229
+2023-06-01,4,Electronics,55012
+2023-06-01,4,Furniture,46318
+2023-06-01,4,Home & Kitchen,81029
+2023-06-01,4,Office Supplies,51773
+2023-06-01,5,Electronics,49949
+2023-06-01,5,Furniture,68347
+2023-06-01,5,Home & Kitchen,40670
+2023-06-01,5,Office Supplies,50807
+2023-06-01,6,Electronics,67361
+2023-06-01,6,Furniture,44337
+2023-06-01,6,Home & Kitchen,50760
+2023-06-01,6,Office Supplies,25923
+2023-06-01,7,Electronics,72650
+2023-06-01,7,Furniture,76634
+2023-06-01,7,Home & Kitchen,65103
+2023-06-01,7,Office Supplies,56602
+2023-06-01,8,Electronics,78609
+2023-06-01,8,Furniture,76079
+2023-06-01,8,Home & Kitchen,53133
+2023-06-01,8,Office Supplies,62070
+2023-06-01,9,Electronics,81319
+2023-06-01,9,Furniture,37039
+2023-06-01,9,Home & Kitchen,71694
+2023-06-01,9,Office Supplies,46789
+2023-06-01,10,Electronics,30572
+2023-06-01,10,Furniture,50035
+2023-06-01,10,Home & Kitchen,56090
+2023-06-01,10,Office Supplies,69383
+2023-06-01,11,Electronics,34102
+2023-06-01,11,Furniture,57890
+2023-06-01,11,Home & Kitchen,64682
+2023-06-01,11,Office Supplies,63190
+2023-07-01,1,Electronics,74947
+2023-07-01,1,Furniture,70184
+2023-07-01,1,Home & Kitchen,52917
+2023-07-01,1,Office Supplies,41431
+2023-07-01,2,Electronics,77836
+2023-07-01,2,Furniture,77919
+2023-07-01,2,Home & Kitchen,32785
+2023-07-01,2,Office Supplies,52196
+2023-07-01,3,Electronics,70118
+2023-07-01,3,Furniture,64667
+2023-07-01,3,Home & Kitchen,77494
+2023-07-01,3,Office Supplies,38092
+2023-07-01,4,Electronics,81480
+2023-07-01,4,Furniture,39002
+2023-07-01,4,Home & Kitchen,30751
+2023-07-01,4,Office Supplies,69099
+2023-07-01,5,Electronics,80679
+2023-07-01,5,Furniture,46024
+2023-07-01,5,Home & Kitchen,34588
+2023-07-01,5,Office Supplies,77557
+2023-07-01,6,Electronics,30709
+2023-07-01,6,Furniture,64884
+2023-07-01,6,Home & Kitchen,32601
+2023-07-01,6,Office Supplies,64925
+2023-07-01,7,Electronics,31835
+2023-07-01,7,Furniture,47816
+2023-07-01,7,Home & Kitchen,52893
+2023-07-01,7,Office Supplies,79160
+2023-07-01,8,Electronics,67662
+2023-07-01,8,Furniture,81678
+2023-07-01,8,Home & Kitchen,57398
+2023-07-01,8,Office Supplies,40476
+2023-07-01,9,Electronics,50476
+2023-07-01,9,Furniture,55873
+2023-07-01,9,Home & Kitchen,58831
+2023-07-01,9,Office Supplies,79415
+2023-07-01,10,Electronics,78820
+2023-07-01,10,Furniture,31076
+2023-07-01,10,Home & Kitchen,72643
+2023-07-01,10,Office Supplies,42854
+2023-07-01,11,Electronics,60256
+2023-07-01,11,Furniture,82265
+2023-07-01,11,Home & Kitchen,77943
+2023-07-01,11,Office Supplies,54098
+2023-08-01,1,Electronics,27748
+2023-08-01,1,Furniture,82092
+2023-08-01,1,Home & Kitchen,79446
+2023-08-01,1,Office Supplies,47810
+2023-08-01,2,Electronics,33240
+2023-08-01,2,Furniture,56649
+2023-08-01,2,Home & Kitchen,73100
+2023-08-01,2,Office Supplies,52247
+2023-08-01,3,Electronics,26261
+2023-08-01,3,Furniture,52432
+2023-08-01,3,Home & Kitchen,55890
+2023-08-01,3,Office Supplies,80062
+2023-08-01,4,Electronics,73456
+2023-08-01,4,Furniture,66678
+2023-08-01,4,Home & Kitchen,49277
+2023-08-01,4,Office Supplies,81743
+2023-08-01,5,Electronics,38895
+2023-08-01,5,Furniture,44771
+2023-08-01,5,Home & Kitchen,75774
+2023-08-01,5,Office Supplies,84633
+2023-08-01,6,Electronics,73882
+2023-08-01,6,Furniture,67459
+2023-08-01,6,Home & Kitchen,81263
+2023-08-01,6,Office Supplies,32878
+2023-08-01,7,Electronics,65147
+2023-08-01,7,Furniture,49776
+2023-08-01,7,Home & Kitchen,60883
+2023-08-01,7,Office Supplies,39920
+2023-08-01,8,Electronics,54333
+2023-08-01,8,Furniture,39127
+2023-08-01,8,Home & Kitchen,63609
+2023-08-01,8,Office Supplies,80773
+2023-08-01,9,Electronics,28527
+2023-08-01,9,Furniture,82596
+2023-08-01,9,Home & Kitchen,64558
+2023-08-01,9,Office Supplies,25850
+2023-08-01,10,Electronics,59747
+2023-08-01,10,Furniture,33282
+2023-08-01,10,Home & Kitchen,73157
+2023-08-01,10,Office Supplies,41670
+2023-08-01,11,Electronics,28448
+2023-08-01,11,Furniture,75864
+2023-08-01,11,Home & Kitchen,57198
+2023-08-01,11,Office Supplies,61666
+2023-09-01,1,Electronics,74896
+2023-09-01,1,Furniture,58925
+2023-09-01,1,Home & Kitchen,72781
+2023-09-01,1,Office Supplies,60896
+2023-09-01,2,Electronics,26669
+2023-09-01,2,Furniture,82035
+2023-09-01,2,Home & Kitchen,82566
+2023-09-01,2,Office Supplies,41547
+2023-09-01,3,Electronics,64030
+2023-09-01,3,Furniture,32399
+2023-09-01,3,Home & Kitchen,42093
+2023-09-01,3,Office Supplies,61468
+2023-09-01,4,Electronics,45872
+2023-09-01,4,Furniture,83132
+2023-09-01,4,Home & Kitchen,29706
+2023-09-01,4,Office Supplies,67600
+2023-09-01,5,Electronics,61766
+2023-09-01,5,Furniture,78526
+2023-09-01,5,Home & Kitchen,73544
+2023-09-01,5,Office Supplies,78771
+2023-09-01,6,Electronics,72630
+2023-09-01,6,Furniture,38155
+2023-09-01,6,Home & Kitchen,50482
+2023-09-01,6,Office Supplies,66135
+2023-09-01,7,Electronics,84940
+2023-09-01,7,Furniture,76733
+2023-09-01,7,Home & Kitchen,63978
+2023-09-01,7,Office Supplies,31080
+2023-09-01,8,Electronics,50250
+2023-09-01,8,Furniture,64088
+2023-09-01,8,Home & Kitchen,71305
+2023-09-01,8,Office Supplies,41320
+2023-09-01,9,Electronics,53040
+2023-09-01,9,Furniture,74300
+2023-09-01,9,Home & Kitchen,75029
+2023-09-01,9,Office Supplies,38392
+2023-09-01,10,Electronics,40222
+2023-09-01,10,Furniture,47405
+2023-09-01,10,Home & Kitchen,63629
+2023-09-01,10,Office Supplies,65604
+2023-09-01,11,Electronics,70552
+2023-09-01,11,Furniture,58349
+2023-09-01,11,Home & Kitchen,80066
+2023-09-01,11,Office Supplies,32198
+2023-10-01,1,Electronics,56482
+2023-10-01,1,Furniture,38517
+2023-10-01,1,Home & Kitchen,57339
+2023-10-01,1,Office Supplies,78150
+2023-10-01,2,Electronics,78115
+2023-10-01,2,Furniture,84326
+2023-10-01,2,Home & Kitchen,54382
+2023-10-01,2,Office Supplies,66638
+2023-10-01,3,Electronics,53611
+2023-10-01,3,Furniture,25585
+2023-10-01,3,Home & Kitchen,42002
+2023-10-01,3,Office Supplies,69604
+2023-10-01,4,Electronics,28234
+2023-10-01,4,Furniture,63569
+2023-10-01,4,Home & Kitchen,52511
+2023-10-01,4,Office Supplies,49709
+2023-10-01,5,Electronics,69135
+2023-10-01,5,Furniture,38682
+2023-10-01,5,Home & Kitchen,40540
+2023-10-01,5,Office Supplies,34941
+2023-10-01,6,Electronics,31506
+2023-10-01,6,Furniture,30012
+2023-10-01,6,Home & Kitchen,31236
+2023-10-01,6,Office Supplies,63356
+2023-10-01,7,Electronics,42995
+2023-10-01,7,Furniture,45236
+2023-10-01,7,Home & Kitchen,70180
+2023-10-01,7,Office Supplies,56080
+2023-10-01,8,Electronics,29636
+2023-10-01,8,Furniture,56512
+2023-10-01,8,Home & Kitchen,64664
+2023-10-01,8,Office Supplies,61438
+2023-10-01,9,Electronics,77095
+2023-10-01,9,Furniture,60672
+2023-10-01,9,Home & Kitchen,73747
+2023-10-01,9,Office Supplies,56144
+2023-10-01,10,Electronics,63195
+2023-10-01,10,Furniture,34307
+2023-10-01,10,Home & Kitchen,84538
+2023-10-01,10,Office Supplies,26622
+2023-10-01,11,Electronics,83092
+2023-10-01,11,Furniture,59571
+2023-10-01,11,Home & Kitchen,45247
+2023-10-01,11,Office Supplies,50393
+2023-11-01,1,Electronics,29594
+2023-11-01,1,Furniture,49607
+2023-11-01,1,Home & Kitchen,29263
+2023-11-01,1,Office Supplies,50803
+2023-11-01,2,Electronics,33183
+2023-11-01,2,Furniture,31812
+2023-11-01,2,Home & Kitchen,67748
+2023-11-01,2,Office Supplies,35756
+2023-11-01,3,Electronics,45109
+2023-11-01,3,Furniture,64729
+2023-11-01,3,Home & Kitchen,55282
+2023-11-01,3,Office Supplies,55826
+2023-11-01,4,Electronics,51512
+2023-11-01,4,Furniture,61579
+2023-11-01,4,Home & Kitchen,64166
+2023-11-01,4,Office Supplies,32760
+2023-11-01,5,Electronics,82787
+2023-11-01,5,Furniture,73848
+2023-11-01,5,Home & Kitchen,50448
+2023-11-01,5,Office Supplies,47358
+2023-11-01,6,Electronics,68547
+2023-11-01,6,Furniture,61784
+2023-11-01,6,Home & Kitchen,73173
+2023-11-01,6,Office Supplies,52939
+2023-11-01,7,Electronics,51472
+2023-11-01,7,Furniture,53099
+2023-11-01,7,Home & Kitchen,42736
+2023-11-01,7,Office Supplies,71714
+2023-11-01,8,Electronics,72775
+2023-11-01,8,Furniture,31620
+2023-11-01,8,Home & Kitchen,30605
+2023-11-01,8,Office Supplies,29487
+2023-11-01,9,Electronics,44759
+2023-11-01,9,Furniture,31063
+2023-11-01,9,Home & Kitchen,59178
+2023-11-01,9,Office Supplies,84718
+2023-11-01,10,Electronics,67292
+2023-11-01,10,Furniture,80628
+2023-11-01,10,Home & Kitchen,33915
+2023-11-01,10,Office Supplies,67033
+2023-11-01,11,Electronics,68712
+2023-11-01,11,Furniture,51852
+2023-11-01,11,Home & Kitchen,69737
+2023-11-01,11,Office Supplies,30104
+2023-12-01,1,Electronics,61930
+2023-12-01,1,Furniture,74253
+2023-12-01,1,Home & Kitchen,48590
+2023-12-01,1,Office Supplies,36366
+2023-12-01,2,Electronics,25613
+2023-12-01,2,Furniture,41370
+2023-12-01,2,Home & Kitchen,74274
+2023-12-01,2,Office Supplies,75447
+2023-12-01,3,Electronics,62012
+2023-12-01,3,Furniture,40440
+2023-12-01,3,Home & Kitchen,40595
+2023-12-01,3,Office Supplies,75674
+2023-12-01,4,Electronics,60017
+2023-12-01,4,Furniture,72156
+2023-12-01,4,Home & Kitchen,47222
+2023-12-01,4,Office Supplies,75237
+2023-12-01,5,Electronics,53245
+2023-12-01,5,Furniture,65457
+2023-12-01,5,Home & Kitchen,76075
+2023-12-01,5,Office Supplies,46127
+2023-12-01,6,Electronics,72273
+2023-12-01,6,Furniture,64190
+2023-12-01,6,Home & Kitchen,54835
+2023-12-01,6,Office Supplies,74746
+2023-12-01,7,Electronics,51392
+2023-12-01,7,Furniture,69965
+2023-12-01,7,Home & Kitchen,29582
+2023-12-01,7,Office Supplies,76721
+2023-12-01,8,Electronics,82873
+2023-12-01,8,Furniture,84011
+2023-12-01,8,Home & Kitchen,75653
+2023-12-01,8,Office Supplies,66408
+2023-12-01,9,Electronics,69471
+2023-12-01,9,Furniture,80687
+2023-12-01,9,Home & Kitchen,68809
+2023-12-01,9,Office Supplies,41306
+2023-12-01,10,Electronics,34577
+2023-12-01,10,Furniture,83408
+2023-12-01,10,Home & Kitchen,33347
+2023-12-01,10,Office Supplies,79619
+2023-12-01,11,Electronics,81156
+2023-12-01,11,Furniture,27474
+2023-12-01,11,Home & Kitchen,73437
+2023-12-01,11,Office Supplies,60426
+2024-01-01,1,Electronics,48374
+2024-01-01,1,Furniture,55178
+2024-01-01,1,Home & Kitchen,50709
+2024-01-01,1,Office Supplies,73936
+2024-01-01,2,Electronics,49695
+2024-01-01,2,Furniture,32580
+2024-01-01,2,Home & Kitchen,48811
+2024-01-01,2,Office Supplies,56658
+2024-01-01,3,Electronics,52022
+2024-01-01,3,Furniture,55075
+2024-01-01,3,Home & Kitchen,84223
+2024-01-01,3,Office Supplies,48732
+2024-01-01,4,Electronics,74078
+2024-01-01,4,Furniture,84530
+2024-01-01,4,Home & Kitchen,74832
+2024-01-01,4,Office Supplies,57372
+2024-01-01,5,Electronics,84366
+2024-01-01,5,Furniture,49794
+2024-01-01,5,Home & Kitchen,41762
+2024-01-01,5,Office Supplies,76384
+2024-01-01,6,Electronics,80130
+2024-01-01,6,Furniture,33343
+2024-01-01,6,Home & Kitchen,44165
+2024-01-01,6,Office Supplies,42253
+2024-01-01,7,Electronics,74195
+2024-01-01,7,Furniture,41733
+2024-01-01,7,Home & Kitchen,64796
+2024-01-01,7,Office Supplies,81022
+2024-01-01,8,Electronics,79595
+2024-01-01,8,Furniture,77819
+2024-01-01,8,Home & Kitchen,56758
+2024-01-01,8,Office Supplies,61401
+2024-01-01,9,Electronics,68525
+2024-01-01,9,Furniture,44177
+2024-01-01,9,Home & Kitchen,55066
+2024-01-01,9,Office Supplies,53086
+2024-01-01,10,Electronics,73035
+2024-01-01,10,Furniture,59268
+2024-01-01,10,Home & Kitchen,51723
+2024-01-01,10,Office Supplies,57405
+2024-01-01,11,Electronics,35328
+2024-01-01,11,Furniture,40356
+2024-01-01,11,Home & Kitchen,73038
+2024-01-01,11,Office Supplies,32829
+2024-02-01,1,Electronics,65958
+2024-02-01,1,Furniture,79458
+2024-02-01,1,Home & Kitchen,66017
+2024-02-01,1,Office Supplies,63450
+2024-02-01,2,Electronics,68044
+2024-02-01,2,Furniture,33705
+2024-02-01,2,Home & Kitchen,33219
+2024-02-01,2,Office Supplies,84390
+2024-02-01,3,Electronics,50606
+2024-02-01,3,Furniture,49676
+2024-02-01,3,Home & Kitchen,34502
+2024-02-01,3,Office Supplies,68978
+2024-02-01,4,Electronics,27041
+2024-02-01,4,Furniture,35602
+2024-02-01,4,Home & Kitchen,38470
+2024-02-01,4,Office Supplies,80965
+2024-02-01,5,Electronics,82005
+2024-02-01,5,Furniture,29752
+2024-02-01,5,Home & Kitchen,33367
+2024-02-01,5,Office Supplies,82349
+2024-02-01,6,Electronics,63060
+2024-02-01,6,Furniture,68627
+2024-02-01,6,Home & Kitchen,59054
+2024-02-01,6,Office Supplies,38634
+2024-02-01,7,Electronics,68822
+2024-02-01,7,Furniture,35854
+2024-02-01,7,Home & Kitchen,26748
+2024-02-01,7,Office Supplies,75226
+2024-02-01,8,Electronics,47792
+2024-02-01,8,Furniture,27395
+2024-02-01,8,Home & Kitchen,51064
+2024-02-01,8,Office Supplies,31856
+2024-02-01,9,Electronics,53258
+2024-02-01,9,Furniture,65371
+2024-02-01,9,Home & Kitchen,45287
+2024-02-01,9,Office Supplies,29642
+2024-02-01,10,Electronics,78417
+2024-02-01,10,Furniture,57474
+2024-02-01,10,Home & Kitchen,26386
+2024-02-01,10,Office Supplies,59443
+2024-02-01,11,Electronics,80426
+2024-02-01,11,Furniture,26072
+2024-02-01,11,Home & Kitchen,72201
+2024-02-01,11,Office Supplies,47629
+2024-03-01,1,Electronics,67454
+2024-03-01,1,Furniture,26711
+2024-03-01,1,Home & Kitchen,79416
+2024-03-01,1,Office Supplies,83013
+2024-03-01,2,Electronics,57993
+2024-03-01,2,Furniture,37919
+2024-03-01,2,Home & Kitchen,34071
+2024-03-01,2,Office Supplies,66382
+2024-03-01,3,Electronics,72608
+2024-03-01,3,Furniture,65425
+2024-03-01,3,Home & Kitchen,54602
+2024-03-01,3,Office Supplies,71333
+2024-03-01,4,Electronics,69244
+2024-03-01,4,Furniture,45119
+2024-03-01,4,Home & Kitchen,71607
+2024-03-01,4,Office Supplies,36063
+2024-03-01,5,Electronics,74215
+2024-03-01,5,Furniture,56830
+2024-03-01,5,Home & Kitchen,69829
+2024-03-01,5,Office Supplies,66660
+2024-03-01,6,Electronics,30757
+2024-03-01,6,Furniture,70318
+2024-03-01,6,Home & Kitchen,72033
+2024-03-01,6,Office Supplies,27934
+2024-03-01,7,Electronics,38554
+2024-03-01,7,Furniture,70159
+2024-03-01,7,Home & Kitchen,46655
+2024-03-01,7,Office Supplies,31745
+2024-03-01,8,Electronics,76270
+2024-03-01,8,Furniture,56478
+2024-03-01,8,Home & Kitchen,48651
+2024-03-01,8,Office Supplies,58324
+2024-03-01,9,Electronics,48984
+2024-03-01,9,Furniture,32623
+2024-03-01,9,Home & Kitchen,58706
+2024-03-01,9,Office Supplies,82839
+2024-03-01,10,Electronics,82100
+2024-03-01,10,Furniture,63280
+2024-03-01,10,Home & Kitchen,34754
+2024-03-01,10,Office Supplies,38433
+2024-03-01,11,Electronics,43926
+2024-03-01,11,Furniture,28053
+2024-03-01,11,Home & Kitchen,33400
+2024-03-01,11,Office Supplies,71501
+2024-04-01,1,Electronics,50744
+2024-04-01,1,Furniture,75478
+2024-04-01,1,Home & Kitchen,28699
+2024-04-01,1,Office Supplies,30437
+2024-04-01,2,Electronics,66386
+2024-04-01,2,Furniture,40445
+2024-04-01,2,Home & Kitchen,38559
+2024-04-01,2,Office Supplies,63542
+2024-04-01,3,Electronics,79791
+2024-04-01,3,Furniture,50138
+2024-04-01,3,Home & Kitchen,70755
+2024-04-01,3,Office Supplies,45550
+2024-04-01,4,Electronics,75346
+2024-04-01,4,Furniture,50467
+2024-04-01,4,Home & Kitchen,34101
+2024-04-01,4,Office Supplies,55318
+2024-04-01,5,Electronics,42548
+2024-04-01,5,Furniture,36079
+2024-04-01,5,Home & Kitchen,36030
+2024-04-01,5,Office Supplies,48283
+2024-04-01,6,Electronics,25588
+2024-04-01,6,Furniture,29189
+2024-04-01,6,Home & Kitchen,60373
+2024-04-01,6,Office Supplies,25363
+2024-04-01,7,Electronics,71330
+2024-04-01,7,Furniture,83511
+2024-04-01,7,Home & Kitchen,36024
+2024-04-01,7,Office Supplies,28288
+2024-04-01,8,Electronics,37629
+2024-04-01,8,Furniture,27608
+2024-04-01,8,Home & Kitchen,41152
+2024-04-01,8,Office Supplies,78397
+2024-04-01,9,Electronics,74187
+2024-04-01,9,Furniture,83562
+2024-04-01,9,Home & Kitchen,73701
+2024-04-01,9,Office Supplies,75672
+2024-04-01,10,Electronics,60530
+2024-04-01,10,Furniture,33373
+2024-04-01,10,Home & Kitchen,71126
+2024-04-01,10,Office Supplies,63371
+2024-04-01,11,Electronics,82724
+2024-04-01,11,Furniture,66815
+2024-04-01,11,Home & Kitchen,57732
+2024-04-01,11,Office Supplies,71299
+2024-05-01,1,Electronics,64366
+2024-05-01,1,Furniture,31773
+2024-05-01,1,Home & Kitchen,61683
+2024-05-01,1,Office Supplies,48445
+2024-05-01,2,Electronics,34764
+2024-05-01,2,Furniture,41565
+2024-05-01,2,Home & Kitchen,75080
+2024-05-01,2,Office Supplies,64270
+2024-05-01,3,Electronics,28486
+2024-05-01,3,Furniture,45616
+2024-05-01,3,Home & Kitchen,66134
+2024-05-01,3,Office Supplies,55529
+2024-05-01,4,Electronics,71566
+2024-05-01,4,Furniture,62586
+2024-05-01,4,Home & Kitchen,27227
+2024-05-01,4,Office Supplies,76948
+2024-05-01,5,Electronics,59225
+2024-05-01,5,Furniture,80255
+2024-05-01,5,Home & Kitchen,38219
+2024-05-01,5,Office Supplies,66606
+2024-05-01,6,Electronics,26761
+2024-05-01,6,Furniture,34383
+2024-05-01,6,Home & Kitchen,77971
+2024-05-01,6,Office Supplies,78335
+2024-05-01,7,Electronics,82254
+2024-05-01,7,Furniture,37270
+2024-05-01,7,Home & Kitchen,78522
+2024-05-01,7,Office Supplies,28191
+2024-05-01,8,Electronics,49038
+2024-05-01,8,Furniture,51236
+2024-05-01,8,Home & Kitchen,72549
+2024-05-01,8,Office Supplies,66078
+2024-05-01,9,Electronics,46545
+2024-05-01,9,Furniture,33961
+2024-05-01,9,Home & Kitchen,46915
+2024-05-01,9,Office Supplies,42961
+2024-05-01,10,Electronics,65204
+2024-05-01,10,Furniture,29803
+2024-05-01,10,Home & Kitchen,49673
+2024-05-01,10,Office Supplies,62092
+2024-05-01,11,Electronics,63782
+2024-05-01,11,Furniture,67494
+2024-05-01,11,Home & Kitchen,42175
+2024-05-01,11,Office Supplies,56181
+2024-06-01,1,Electronics,30909
+2024-06-01,1,Furniture,51665
+2024-06-01,1,Home & Kitchen,83922
+2024-06-01,1,Office Supplies,75862
+2024-06-01,2,Electronics,62354
+2024-06-01,2,Furniture,50151
+2024-06-01,2,Home & Kitchen,79046
+2024-06-01,2,Office Supplies,51506
+2024-06-01,3,Electronics,70802
+2024-06-01,3,Furniture,59639
+2024-06-01,3,Home & Kitchen,26282
+2024-06-01,3,Office Supplies,67230
+2024-06-01,4,Electronics,78602
+2024-06-01,4,Furniture,71621
+2024-06-01,4,Home & Kitchen,61884
+2024-06-01,4,Office Supplies,27449
+2024-06-01,5,Electronics,26392
+2024-06-01,5,Furniture,76069
+2024-06-01,5,Home & Kitchen,53496
+2024-06-01,5,Office Supplies,52079
+2024-06-01,6,Electronics,63456
+2024-06-01,6,Furniture,79352
+2024-06-01,6,Home & Kitchen,51204
+2024-06-01,6,Office Supplies,57180
+2024-06-01,7,Electronics,58523
+2024-06-01,7,Furniture,53549
+2024-06-01,7,Home & Kitchen,64393
+2024-06-01,7,Office Supplies,36723
+2024-06-01,8,Electronics,47386
+2024-06-01,8,Furniture,53176
+2024-06-01,8,Home & Kitchen,56163
+2024-06-01,8,Office Supplies,54575
+2024-06-01,9,Electronics,50108
+2024-06-01,9,Furniture,78668
+2024-06-01,9,Home & Kitchen,73045
+2024-06-01,9,Office Supplies,78225
+2024-06-01,10,Electronics,60683
+2024-06-01,10,Furniture,54184
+2024-06-01,10,Home & Kitchen,50854
+2024-06-01,10,Office Supplies,77054
+2024-06-01,11,Electronics,64949
+2024-06-01,11,Furniture,76263
+2024-06-01,11,Home & Kitchen,75997
+2024-06-01,11,Office Supplies,81903
+2024-07-01,1,Electronics,57717
+2024-07-01,1,Furniture,46696
+2024-07-01,1,Home & Kitchen,79515
+2024-07-01,1,Office Supplies,37733
+2024-07-01,2,Electronics,44379
+2024-07-01,2,Furniture,81635
+2024-07-01,2,Home & Kitchen,67838
+2024-07-01,2,Office Supplies,60091
+2024-07-01,3,Electronics,56822
+2024-07-01,3,Furniture,52999
+2024-07-01,3,Home & Kitchen,78781
+2024-07-01,3,Office Supplies,49687
+2024-07-01,4,Electronics,53765
+2024-07-01,4,Furniture,30085
+2024-07-01,4,Home & Kitchen,31876
+2024-07-01,4,Office Supplies,37245
+2024-07-01,5,Electronics,42977
+2024-07-01,5,Furniture,42494
+2024-07-01,5,Home & Kitchen,65010
+2024-07-01,5,Office Supplies,58079
+2024-07-01,6,Electronics,25252
+2024-07-01,6,Furniture,56002
+2024-07-01,6,Home & Kitchen,29927
+2024-07-01,6,Office Supplies,57571
+2024-07-01,7,Electronics,28008
+2024-07-01,7,Furniture,29587
+2024-07-01,7,Home & Kitchen,74567
+2024-07-01,7,Office Supplies,25586
+2024-07-01,8,Electronics,83349
+2024-07-01,8,Furniture,52789
+2024-07-01,8,Home & Kitchen,74571
+2024-07-01,8,Office Supplies,36608
+2024-07-01,9,Electronics,53009
+2024-07-01,9,Furniture,78500
+2024-07-01,9,Home & Kitchen,29625
+2024-07-01,9,Office Supplies,50854
+2024-07-01,10,Electronics,32370
+2024-07-01,10,Furniture,46119
+2024-07-01,10,Home & Kitchen,83238
+2024-07-01,10,Office Supplies,57640
+2024-07-01,11,Electronics,45033
+2024-07-01,11,Furniture,62716
+2024-07-01,11,Home & Kitchen,41896
+2024-07-01,11,Office Supplies,29918
+2024-08-01,1,Electronics,58914
+2024-08-01,1,Furniture,69480
+2024-08-01,1,Home & Kitchen,35725
+2024-08-01,1,Office Supplies,33254
+2024-08-01,2,Electronics,60872
+2024-08-01,2,Furniture,48203
+2024-08-01,2,Home & Kitchen,81135
+2024-08-01,2,Office Supplies,46412
+2024-08-01,3,Electronics,48539
+2024-08-01,3,Furniture,59149
+2024-08-01,3,Home & Kitchen,83679
+2024-08-01,3,Office Supplies,66368
+2024-08-01,4,Electronics,64974
+2024-08-01,4,Furniture,73049
+2024-08-01,4,Home & Kitchen,73955
+2024-08-01,4,Office Supplies,56628
+2024-08-01,5,Electronics,42190
+2024-08-01,5,Furniture,34323
+2024-08-01,5,Home & Kitchen,59034
+2024-08-01,5,Office Supplies,66757
+2024-08-01,6,Electronics,46979
+2024-08-01,6,Furniture,53727
+2024-08-01,6,Home & Kitchen,51723
+2024-08-01,6,Office Supplies,60335
+2024-08-01,7,Electronics,74124
+2024-08-01,7,Furniture,51622
+2024-08-01,7,Home & Kitchen,56156
+2024-08-01,7,Office Supplies,49977
+2024-08-01,8,Electronics,43110
+2024-08-01,8,Furniture,67081
+2024-08-01,8,Home & Kitchen,62007
+2024-08-01,8,Office Supplies,56446
+2024-08-01,9,Electronics,42685
+2024-08-01,9,Furniture,77067
+2024-08-01,9,Home & Kitchen,73283
+2024-08-01,9,Office Supplies,69606
+2024-08-01,10,Electronics,73931
+2024-08-01,10,Furniture,53578
+2024-08-01,10,Home & Kitchen,62679
+2024-08-01,10,Office Supplies,37852
+2024-08-01,11,Electronics,71978
+2024-08-01,11,Furniture,26054
+2024-08-01,11,Home & Kitchen,55511
+2024-08-01,11,Office Supplies,37323
+2024-09-01,1,Electronics,60736
+2024-09-01,1,Furniture,41876
+2024-09-01,1,Home & Kitchen,82861
+2024-09-01,1,Office Supplies,32086
+2024-09-01,2,Electronics,74344
+2024-09-01,2,Furniture,65145
+2024-09-01,2,Home & Kitchen,84754
+2024-09-01,2,Office Supplies,44564
+2024-09-01,3,Electronics,67302
+2024-09-01,3,Furniture,26814
+2024-09-01,3,Home & Kitchen,65614
+2024-09-01,3,Office Supplies,51212
+2024-09-01,4,Electronics,68586
+2024-09-01,4,Furniture,72058
+2024-09-01,4,Home & Kitchen,54192
+2024-09-01,4,Office Supplies,45384
+2024-09-01,5,Electronics,67780
+2024-09-01,5,Furniture,79139
+2024-09-01,5,Home & Kitchen,46563
+2024-09-01,5,Office Supplies,76167
+2024-09-01,6,Electronics,51625
+2024-09-01,6,Furniture,78362
+2024-09-01,6,Home & Kitchen,63937
+2024-09-01,6,Office Supplies,65067
+2024-09-01,7,Electronics,66293
+2024-09-01,7,Furniture,73395
+2024-09-01,7,Home & Kitchen,76675
+2024-09-01,7,Office Supplies,48338
+2024-09-01,8,Electronics,69753
+2024-09-01,8,Furniture,66593
+2024-09-01,8,Home & Kitchen,60496
+2024-09-01,8,Office Supplies,38434
+2024-09-01,9,Electronics,52929
+2024-09-01,9,Furniture,37283
+2024-09-01,9,Home & Kitchen,33197
+2024-09-01,9,Office Supplies,81616
+2024-09-01,10,Electronics,68435
+2024-09-01,10,Furniture,57929
+2024-09-01,10,Home & Kitchen,51512
+2024-09-01,10,Office Supplies,29300
+2024-09-01,11,Electronics,46065
+2024-09-01,11,Furniture,36838
+2024-09-01,11,Home & Kitchen,57292
+2024-09-01,11,Office Supplies,52680
+2024-10-01,1,Electronics,82801
+2024-10-01,1,Furniture,75753
+2024-10-01,1,Home & Kitchen,61059
+2024-10-01,1,Office Supplies,78757
+2024-10-01,2,Electronics,44764
+2024-10-01,2,Furniture,31807
+2024-10-01,2,Home & Kitchen,58632
+2024-10-01,2,Office Supplies,28721
+2024-10-01,3,Electronics,81573
+2024-10-01,3,Furniture,32301
+2024-10-01,3,Home & Kitchen,76381
+2024-10-01,3,Office Supplies,65283
+2024-10-01,4,Electronics,39804
+2024-10-01,4,Furniture,56969
+2024-10-01,4,Home & Kitchen,57635
+2024-10-01,4,Office Supplies,69273
+2024-10-01,5,Electronics,50610
+2024-10-01,5,Furniture,60601
+2024-10-01,5,Home & Kitchen,49937
+2024-10-01,5,Office Supplies,30753
+2024-10-01,6,Electronics,67648
+2024-10-01,6,Furniture,40457
+2024-10-01,6,Home & Kitchen,41734
+2024-10-01,6,Office Supplies,44893
+2024-10-01,7,Electronics,58994
+2024-10-01,7,Furniture,67461
+2024-10-01,7,Home & Kitchen,73881
+2024-10-01,7,Office Supplies,60811
+2024-10-01,8,Electronics,48870
+2024-10-01,8,Furniture,81809
+2024-10-01,8,Home & Kitchen,53501
+2024-10-01,8,Office Supplies,33731
+2024-10-01,9,Electronics,73097
+2024-10-01,9,Furniture,81317
+2024-10-01,9,Home & Kitchen,42443
+2024-10-01,9,Office Supplies,38209
+2024-10-01,10,Electronics,46121
+2024-10-01,10,Furniture,45608
+2024-10-01,10,Home & Kitchen,36548
+2024-10-01,10,Office Supplies,27074
+2024-10-01,11,Electronics,36258
+2024-10-01,11,Furniture,42791
+2024-10-01,11,Home & Kitchen,36303
+2024-10-01,11,Office Supplies,36982
+2024-11-01,1,Electronics,81597
+2024-11-01,1,Furniture,38035
+2024-11-01,1,Home & Kitchen,74296
+2024-11-01,1,Office Supplies,59332
+2024-11-01,2,Electronics,51169
+2024-11-01,2,Furniture,71847
+2024-11-01,2,Home & Kitchen,26016
+2024-11-01,2,Office Supplies,69697
+2024-11-01,3,Electronics,49965
+2024-11-01,3,Furniture,74748
+2024-11-01,3,Home & Kitchen,82739
+2024-11-01,3,Office Supplies,68880
+2024-11-01,4,Electronics,31867
+2024-11-01,4,Furniture,83590
+2024-11-01,4,Home & Kitchen,70592
+2024-11-01,4,Office Supplies,26108
+2024-11-01,5,Electronics,36416
+2024-11-01,5,Furniture,84273
+2024-11-01,5,Home & Kitchen,75197
+2024-11-01,5,Office Supplies,49589
+2024-11-01,6,Electronics,82389
+2024-11-01,6,Furniture,53668
+2024-11-01,6,Home & Kitchen,77039
+2024-11-01,6,Office Supplies,59641
+2024-11-01,7,Electronics,64611
+2024-11-01,7,Furniture,25511
+2024-11-01,7,Home & Kitchen,83210
+2024-11-01,7,Office Supplies,35902
+2024-11-01,8,Electronics,37795
+2024-11-01,8,Furniture,51758
+2024-11-01,8,Home & Kitchen,70313
+2024-11-01,8,Office Supplies,71171
+2024-11-01,9,Electronics,62595
+2024-11-01,9,Furniture,77205
+2024-11-01,9,Home & Kitchen,66613
+2024-11-01,9,Office Supplies,33864
+2024-11-01,10,Electronics,72014
+2024-11-01,10,Furniture,40779
+2024-11-01,10,Home & Kitchen,56177
+2024-11-01,10,Office Supplies,61442
+2024-11-01,11,Electronics,48527
+2024-11-01,11,Furniture,46658
+2024-11-01,11,Home & Kitchen,41075
+2024-11-01,11,Office Supplies,42874
+2024-12-01,1,Electronics,84165
+2024-12-01,1,Furniture,47999
+2024-12-01,1,Home & Kitchen,53370
+2024-12-01,1,Office Supplies,67095
+2024-12-01,2,Electronics,39919
+2024-12-01,2,Furniture,36916
+2024-12-01,2,Home & Kitchen,37605
+2024-12-01,2,Office Supplies,28714
+2024-12-01,3,Electronics,52077
+2024-12-01,3,Furniture,25207
+2024-12-01,3,Home & Kitchen,47719
+2024-12-01,3,Office Supplies,56600
+2024-12-01,4,Electronics,40483
+2024-12-01,4,Furniture,40001
+2024-12-01,4,Home & Kitchen,61039
+2024-12-01,4,Office Supplies,58698
+2024-12-01,5,Electronics,72325
+2024-12-01,5,Furniture,77859
+2024-12-01,5,Home & Kitchen,39896
+2024-12-01,5,Office Supplies,42619
+2024-12-01,6,Electronics,56468
+2024-12-01,6,Furniture,36014
+2024-12-01,6,Home & Kitchen,68690
+2024-12-01,6,Office Supplies,25094
+2024-12-01,7,Electronics,47049
+2024-12-01,7,Furniture,83881
+2024-12-01,7,Home & Kitchen,69033
+2024-12-01,7,Office Supplies,56009
+2024-12-01,8,Electronics,25222
+2024-12-01,8,Furniture,73125
+2024-12-01,8,Home & Kitchen,51748
+2024-12-01,8,Office Supplies,76485
+2024-12-01,9,Electronics,72024
+2024-12-01,9,Furniture,84712
+2024-12-01,9,Home & Kitchen,32072
+2024-12-01,9,Office Supplies,76577
+2024-12-01,10,Electronics,67699
+2024-12-01,10,Furniture,42643
+2024-12-01,10,Home & Kitchen,75669
+2024-12-01,10,Office Supplies,58861
+2024-12-01,11,Electronics,64590
+2024-12-01,11,Furniture,82764
+2024-12-01,11,Home & Kitchen,59373
+2024-12-01,11,Office Supplies,63002
+2025-01-01,1,Electronics,76928
+2025-01-01,1,Furniture,71143
+2025-01-01,1,Home & Kitchen,63463
+2025-01-01,1,Office Supplies,79399
+2025-01-01,2,Electronics,79624
+2025-01-01,2,Furniture,61819
+2025-01-01,2,Home & Kitchen,30905
+2025-01-01,2,Office Supplies,66547
+2025-01-01,3,Electronics,44959
+2025-01-01,3,Furniture,60296
+2025-01-01,3,Home & Kitchen,47626
+2025-01-01,3,Office Supplies,45318
+2025-01-01,4,Electronics,83482
+2025-01-01,4,Furniture,39927
+2025-01-01,4,Home & Kitchen,34631
+2025-01-01,4,Office Supplies,63012
+2025-01-01,5,Electronics,63662
+2025-01-01,5,Furniture,83867
+2025-01-01,5,Home & Kitchen,28447
+2025-01-01,5,Office Supplies,79968
+2025-01-01,6,Electronics,75377
+2025-01-01,6,Furniture,37591
+2025-01-01,6,Home & Kitchen,74122
+2025-01-01,6,Office Supplies,75565
+2025-01-01,7,Electronics,31897
+2025-01-01,7,Furniture,26266
+2025-01-01,7,Home & Kitchen,64647
+2025-01-01,7,Office Supplies,60366
+2025-01-01,8,Electronics,76791
+2025-01-01,8,Furniture,80820
+2025-01-01,8,Home & Kitchen,31241
+2025-01-01,8,Office Supplies,82560
+2025-01-01,9,Electronics,76192
+2025-01-01,9,Furniture,61183
+2025-01-01,9,Home & Kitchen,46660
+2025-01-01,9,Office Supplies,62848
+2025-01-01,10,Electronics,58881
+2025-01-01,10,Furniture,48394
+2025-01-01,10,Home & Kitchen,29692
+2025-01-01,10,Office Supplies,68418
+2025-01-01,11,Electronics,43337
+2025-01-01,11,Furniture,39742
+2025-01-01,11,Home & Kitchen,47507
+2025-01-01,11,Office Supplies,27032
+2025-02-01,1,Electronics,48499
+2025-02-01,1,Furniture,75118
+2025-02-01,1,Home & Kitchen,68880
+2025-02-01,1,Office Supplies,28621
+2025-02-01,2,Electronics,44804
+2025-02-01,2,Furniture,64882
+2025-02-01,2,Home & Kitchen,80867
+2025-02-01,2,Office Supplies,51215
+2025-02-01,3,Electronics,84299
+2025-02-01,3,Furniture,27595
+2025-02-01,3,Home & Kitchen,79621
+2025-02-01,3,Office Supplies,34588
+2025-02-01,4,Electronics,68760
+2025-02-01,4,Furniture,31043
+2025-02-01,4,Home & Kitchen,84364
+2025-02-01,4,Office Supplies,37864
+2025-02-01,5,Electronics,47083
+2025-02-01,5,Furniture,63116
+2025-02-01,5,Home & Kitchen,28009
+2025-02-01,5,Office Supplies,59237
+2025-02-01,6,Electronics,42529
+2025-02-01,6,Furniture,50976
+2025-02-01,6,Home & Kitchen,44979
+2025-02-01,6,Office Supplies,75583
+2025-02-01,7,Electronics,52393
+2025-02-01,7,Furniture,70184
+2025-02-01,7,Home & Kitchen,27495
+2025-02-01,7,Office Supplies,65962
+2025-02-01,8,Electronics,48004
+2025-02-01,8,Furniture,60931
+2025-02-01,8,Home & Kitchen,75796
+2025-02-01,8,Office Supplies,66766
+2025-02-01,9,Electronics,46212
+2025-02-01,9,Furniture,38595
+2025-02-01,9,Home & Kitchen,78240
+2025-02-01,9,Office Supplies,40589
+2025-02-01,10,Electronics,27120
+2025-02-01,10,Furniture,42886
+2025-02-01,10,Home & Kitchen,25642
+2025-02-01,10,Office Supplies,69463
+2025-02-01,11,Electronics,78378
+2025-02-01,11,Furniture,50936
+2025-02-01,11,Home & Kitchen,61830
+2025-02-01,11,Office Supplies,82570
+2025-03-01,1,Electronics,80505
+2025-03-01,1,Furniture,27412
+2025-03-01,1,Home & Kitchen,29142
+2025-03-01,1,Office Supplies,47990
+2025-03-01,2,Electronics,41740
+2025-03-01,2,Furniture,34283
+2025-03-01,2,Home & Kitchen,34071
+2025-03-01,2,Office Supplies,73979
+2025-03-01,3,Electronics,36633
+2025-03-01,3,Furniture,53776
+2025-03-01,3,Home & Kitchen,27699
+2025-03-01,3,Office Supplies,62201
+2025-03-01,4,Electronics,69478
+2025-03-01,4,Furniture,60876
+2025-03-01,4,Home & Kitchen,42095
+2025-03-01,4,Office Supplies,29743
+2025-03-01,5,Electronics,49020
+2025-03-01,5,Furniture,72024
+2025-03-01,5,Home & Kitchen,32183
+2025-03-01,5,Office Supplies,74318
+2025-03-01,6,Electronics,79795
+2025-03-01,6,Furniture,61446
+2025-03-01,6,Home & Kitchen,75648
+2025-03-01,6,Office Supplies,41856
+2025-03-01,7,Electronics,62275
+2025-03-01,7,Furniture,68445
+2025-03-01,7,Home & Kitchen,67896
+2025-03-01,7,Office Supplies,67039
+2025-03-01,8,Electronics,36649
+2025-03-01,8,Furniture,79752
+2025-03-01,8,Home & Kitchen,65918
+2025-03-01,8,Office Supplies,32040
+2025-03-01,9,Electronics,63367
+2025-03-01,9,Furniture,79588
+2025-03-01,9,Home & Kitchen,26431
+2025-03-01,9,Office Supplies,78224
+2025-03-01,10,Electronics,44814
+2025-03-01,10,Furniture,42851
+2025-03-01,10,Home & Kitchen,54256
+2025-03-01,10,Office Supplies,67971
+2025-03-01,11,Electronics,31180
+2025-03-01,11,Furniture,40822
+2025-03-01,11,Home & Kitchen,73449
+2025-03-01,11,Office Supplies,39105
+2025-04-01,1,Electronics,45967
+2025-04-01,1,Furniture,63492
+2025-04-01,1,Home & Kitchen,40036
+2025-04-01,1,Office Supplies,28002
+2025-04-01,2,Electronics,56652
+2025-04-01,2,Furniture,30788
+2025-04-01,2,Home & Kitchen,48176
+2025-04-01,2,Office Supplies,64608
+2025-04-01,3,Electronics,69370
+2025-04-01,3,Furniture,82112
+2025-04-01,3,Home & Kitchen,77301
+2025-04-01,3,Office Supplies,27042
+2025-04-01,4,Electronics,54193
+2025-04-01,4,Furniture,26375
+2025-04-01,4,Home & Kitchen,73072
+2025-04-01,4,Office Supplies,29486
+2025-04-01,5,Electronics,71636
+2025-04-01,5,Furniture,25099
+2025-04-01,5,Home & Kitchen,31659
+2025-04-01,5,Office Supplies,80698
+2025-04-01,6,Electronics,36168
+2025-04-01,6,Furniture,53442
+2025-04-01,6,Home & Kitchen,56223
+2025-04-01,6,Office Supplies,66526
+2025-04-01,7,Electronics,81105
+2025-04-01,7,Furniture,49983
+2025-04-01,7,Home & Kitchen,61209
+2025-04-01,7,Office Supplies,84834
+2025-04-01,8,Electronics,31493
+2025-04-01,8,Furniture,53795
+2025-04-01,8,Home & Kitchen,43207
+2025-04-01,8,Office Supplies,81355
+2025-04-01,9,Electronics,61896
+2025-04-01,9,Furniture,63976
+2025-04-01,9,Home & Kitchen,36236
+2025-04-01,9,Office Supplies,81864
+2025-04-01,10,Electronics,29040
+2025-04-01,10,Furniture,54708
+2025-04-01,10,Home & Kitchen,66969
+2025-04-01,10,Office Supplies,77732
+2025-04-01,11,Electronics,41402
+2025-04-01,11,Furniture,45033
+2025-04-01,11,Home & Kitchen,27277
+2025-04-01,11,Office Supplies,64671
+2025-05-01,1,Electronics,36817
+2025-05-01,1,Furniture,62031
+2025-05-01,1,Home & Kitchen,30092
+2025-05-01,1,Office Supplies,54210
+2025-05-01,2,Electronics,53713
+2025-05-01,2,Furniture,55088
+2025-05-01,2,Home & Kitchen,43520
+2025-05-01,2,Office Supplies,35207
+2025-05-01,3,Electronics,71550
+2025-05-01,3,Furniture,79361
+2025-05-01,3,Home & Kitchen,41610
+2025-05-01,3,Office Supplies,52252
+2025-05-01,4,Electronics,31539
+2025-05-01,4,Furniture,34088
+2025-05-01,4,Home & Kitchen,46152
+2025-05-01,4,Office Supplies,67259
+2025-05-01,5,Electronics,65372
+2025-05-01,5,Furniture,68629
+2025-05-01,5,Home & Kitchen,30339
+2025-05-01,5,Office Supplies,27707
+2025-05-01,6,Electronics,41505
+2025-05-01,6,Furniture,44969
+2025-05-01,6,Home & Kitchen,55840
+2025-05-01,6,Office Supplies,60055
+2025-05-01,7,Electronics,36281
+2025-05-01,7,Furniture,74294
+2025-05-01,7,Home & Kitchen,69798
+2025-05-01,7,Office Supplies,43636
+2025-05-01,8,Electronics,63749
+2025-05-01,8,Furniture,42979
+2025-05-01,8,Home & Kitchen,28634
+2025-05-01,8,Office Supplies,69194
+2025-05-01,9,Electronics,30169
+2025-05-01,9,Furniture,38152
+2025-05-01,9,Home & Kitchen,43173
+2025-05-01,9,Office Supplies,78759
+2025-05-01,10,Electronics,60165
+2025-05-01,10,Furniture,72424
+2025-05-01,10,Home & Kitchen,79483
+2025-05-01,10,Office Supplies,78583
+2025-05-01,11,Electronics,61551
+2025-05-01,11,Furniture,46224
+2025-05-01,11,Home & Kitchen,49220
+2025-05-01,11,Office Supplies,34944
+2025-06-01,1,Electronics,60317
+2025-06-01,1,Furniture,60103
+2025-06-01,1,Home & Kitchen,83338
+2025-06-01,1,Office Supplies,36398
+2025-06-01,2,Electronics,70411
+2025-06-01,2,Furniture,40966
+2025-06-01,2,Home & Kitchen,29718
+2025-06-01,2,Office Supplies,49034
+2025-06-01,3,Electronics,82829
+2025-06-01,3,Furniture,52763
+2025-06-01,3,Home & Kitchen,36153
+2025-06-01,3,Office Supplies,44344
+2025-06-01,4,Electronics,66686
+2025-06-01,4,Furniture,42083
+2025-06-01,4,Home & Kitchen,38891
+2025-06-01,4,Office Supplies,39803
+2025-06-01,5,Electronics,29918
+2025-06-01,5,Furniture,66408
+2025-06-01,5,Home & Kitchen,44235
+2025-06-01,5,Office Supplies,43352
+2025-06-01,6,Electronics,44704
+2025-06-01,6,Furniture,66663
+2025-06-01,6,Home & Kitchen,77447
+2025-06-01,6,Office Supplies,69573
+2025-06-01,7,Electronics,59063
+2025-06-01,7,Furniture,67853
+2025-06-01,7,Home & Kitchen,38618
+2025-06-01,7,Office Supplies,79866
+2025-06-01,8,Electronics,61752
+2025-06-01,8,Furniture,82269
+2025-06-01,8,Home & Kitchen,41071
+2025-06-01,8,Office Supplies,33811
+2025-06-01,9,Electronics,67884
+2025-06-01,9,Furniture,44235
+2025-06-01,9,Home & Kitchen,37469
+2025-06-01,9,Office Supplies,72260
+2025-06-01,10,Electronics,56977
+2025-06-01,10,Furniture,71908
+2025-06-01,10,Home & Kitchen,39620
+2025-06-01,10,Office Supplies,29256
+2025-06-01,11,Electronics,49584
+2025-06-01,11,Furniture,82722
+2025-06-01,11,Home & Kitchen,60147
+2025-06-01,11,Office Supplies,76372
+2025-07-01,1,Electronics,75582
+2025-07-01,1,Furniture,78952
+2025-07-01,1,Home & Kitchen,52532
+2025-07-01,1,Office Supplies,37263
+2025-07-01,2,Electronics,78986
+2025-07-01,2,Furniture,55055
+2025-07-01,2,Home & Kitchen,44200
+2025-07-01,2,Office Supplies,51432
+2025-07-01,3,Electronics,71951
+2025-07-01,3,Furniture,46617
+2025-07-01,3,Home & Kitchen,74893
+2025-07-01,3,Office Supplies,38641
+2025-07-01,4,Electronics,44062
+2025-07-01,4,Furniture,33376
+2025-07-01,4,Home & Kitchen,77272
+2025-07-01,4,Office Supplies,77230
+2025-07-01,5,Electronics,37426
+2025-07-01,5,Furniture,56826
+2025-07-01,5,Home & Kitchen,72492
+2025-07-01,5,Office Supplies,61049
+2025-07-01,6,Electronics,63721
+2025-07-01,6,Furniture,40696
+2025-07-01,6,Home & Kitchen,26753
+2025-07-01,6,Office Supplies,81103
+2025-07-01,7,Electronics,79791
+2025-07-01,7,Furniture,81182
+2025-07-01,7,Home & Kitchen,27590
+2025-07-01,7,Office Supplies,65287
+2025-07-01,8,Electronics,40054
+2025-07-01,8,Furniture,44233
+2025-07-01,8,Home & Kitchen,49767
+2025-07-01,8,Office Supplies,38970
+2025-07-01,9,Electronics,60689
+2025-07-01,9,Furniture,60716
+2025-07-01,9,Home & Kitchen,80691
+2025-07-01,9,Office Supplies,74972
+2025-07-01,10,Electronics,67138
+2025-07-01,10,Furniture,83019
+2025-07-01,10,Home & Kitchen,50694
+2025-07-01,10,Office Supplies,29091
+2025-07-01,11,Electronics,77749
+2025-07-01,11,Furniture,45051
+2025-07-01,11,Home & Kitchen,51783
+2025-07-01,11,Office Supplies,48468
+2025-08-01,1,Electronics,79666
+2025-08-01,1,Furniture,47141
+2025-08-01,1,Home & Kitchen,66036
+2025-08-01,1,Office Supplies,65066
+2025-08-01,2,Electronics,58359
+2025-08-01,2,Furniture,57832
+2025-08-01,2,Home & Kitchen,29332
+2025-08-01,2,Office Supplies,78482
+2025-08-01,3,Electronics,45010
+2025-08-01,3,Furniture,38353
+2025-08-01,3,Home & Kitchen,38166
+2025-08-01,3,Office Supplies,48959
+2025-08-01,4,Electronics,62429
+2025-08-01,4,Furniture,57469
+2025-08-01,4,Home & Kitchen,75108
+2025-08-01,4,Office Supplies,74007
+2025-08-01,5,Electronics,45132
+2025-08-01,5,Furniture,74394
+2025-08-01,5,Home & Kitchen,65910
+2025-08-01,5,Office Supplies,76562
+2025-08-01,6,Electronics,25018
+2025-08-01,6,Furniture,56148
+2025-08-01,6,Home & Kitchen,62527
+2025-08-01,6,Office Supplies,39495
+2025-08-01,7,Electronics,64325
+2025-08-01,7,Furniture,68575
+2025-08-01,7,Home & Kitchen,33335
+2025-08-01,7,Office Supplies,82280
+2025-08-01,8,Electronics,81746
+2025-08-01,8,Furniture,42117
+2025-08-01,8,Home & Kitchen,36983
+2025-08-01,8,Office Supplies,36902
+2025-08-01,9,Electronics,27191
+2025-08-01,9,Furniture,26348
+2025-08-01,9,Home & Kitchen,43742
+2025-08-01,9,Office Supplies,64988
+2025-08-01,10,Electronics,65866
+2025-08-01,10,Furniture,57700
+2025-08-01,10,Home & Kitchen,64003
+2025-08-01,10,Office Supplies,33082
+2025-08-01,11,Electronics,84694
+2025-08-01,11,Furniture,36970
+2025-08-01,11,Home & Kitchen,47009
+2025-08-01,11,Office Supplies,64733
+2025-09-01,1,Electronics,32642
+2025-09-01,1,Furniture,51161
+2025-09-01,1,Home & Kitchen,81039
+2025-09-01,1,Office Supplies,38993
+2025-09-01,2,Electronics,62176
+2025-09-01,2,Furniture,61349
+2025-09-01,2,Home & Kitchen,29621
+2025-09-01,2,Office Supplies,28159
+2025-09-01,3,Electronics,33783
+2025-09-01,3,Furniture,25972
+2025-09-01,3,Home & Kitchen,56897
+2025-09-01,3,Office Supplies,40652
+2025-09-01,4,Electronics,60901
+2025-09-01,4,Furniture,42371
+2025-09-01,4,Home & Kitchen,46007
+2025-09-01,4,Office Supplies,31262
+2025-09-01,5,Electronics,72713
+2025-09-01,5,Furniture,31891
+2025-09-01,5,Home & Kitchen,79767
+2025-09-01,5,Office Supplies,35068
+2025-09-01,6,Electronics,84435
+2025-09-01,6,Furniture,68476
+2025-09-01,6,Home & Kitchen,74401
+2025-09-01,6,Office Supplies,73369
+2025-09-01,7,Electronics,51735
+2025-09-01,7,Furniture,35896
+2025-09-01,7,Home & Kitchen,65593
+2025-09-01,7,Office Supplies,64406
+2025-09-01,8,Electronics,73432
+2025-09-01,8,Furniture,39019
+2025-09-01,8,Home & Kitchen,74143
+2025-09-01,8,Office Supplies,77803
+2025-09-01,9,Electronics,68866
+2025-09-01,9,Furniture,41135
+2025-09-01,9,Home & Kitchen,39810
+2025-09-01,9,Office Supplies,32786
+2025-09-01,10,Electronics,74769
+2025-09-01,10,Furniture,51348
+2025-09-01,10,Home & Kitchen,43399
+2025-09-01,10,Office Supplies,34252
+2025-09-01,11,Electronics,54641
+2025-09-01,11,Furniture,36902
+2025-09-01,11,Home & Kitchen,75152
+2025-09-01,11,Office Supplies,45343
+2025-10-01,1,Electronics,51750
+2025-10-01,1,Furniture,64643
+2025-10-01,1,Home & Kitchen,66952
+2025-10-01,1,Office Supplies,32011
+2025-10-01,2,Electronics,29580
+2025-10-01,2,Furniture,42046
+2025-10-01,2,Home & Kitchen,69812
+2025-10-01,2,Office Supplies,76501
+2025-10-01,3,Electronics,83337
+2025-10-01,3,Furniture,41426
+2025-10-01,3,Home & Kitchen,70815
+2025-10-01,3,Office Supplies,35106
+2025-10-01,4,Electronics,36354
+2025-10-01,4,Furniture,57016
+2025-10-01,4,Home & Kitchen,30862
+2025-10-01,4,Office Supplies,26998
+2025-10-01,5,Electronics,84713
+2025-10-01,5,Furniture,73237
+2025-10-01,5,Home & Kitchen,65550
+2025-10-01,5,Office Supplies,38347
+2025-10-01,6,Electronics,29583
+2025-10-01,6,Furniture,32971
+2025-10-01,6,Home & Kitchen,50288
+2025-10-01,6,Office Supplies,73492
+2025-10-01,7,Electronics,60616
+2025-10-01,7,Furniture,75565
+2025-10-01,7,Home & Kitchen,79545
+2025-10-01,7,Office Supplies,69083
+2025-10-01,8,Electronics,30996
+2025-10-01,8,Furniture,39075
+2025-10-01,8,Home & Kitchen,45239
+2025-10-01,8,Office Supplies,56619
+2025-10-01,9,Electronics,72574
+2025-10-01,9,Furniture,83143
+2025-10-01,9,Home & Kitchen,83996
+2025-10-01,9,Office Supplies,53665
+2025-10-01,10,Electronics,84494
+2025-10-01,10,Furniture,81978
+2025-10-01,10,Home & Kitchen,34999
+2025-10-01,10,Office Supplies,65582
+2025-10-01,11,Electronics,51332
+2025-10-01,11,Furniture,75699
+2025-10-01,11,Home & Kitchen,77084
+2025-10-01,11,Office Supplies,36544
+2025-11-01,1,Electronics,61226
+2025-11-01,1,Furniture,80604
+2025-11-01,1,Home & Kitchen,65040
+2025-11-01,1,Office Supplies,76200
+2025-11-01,2,Electronics,68395
+2025-11-01,2,Furniture,72102
+2025-11-01,2,Home & Kitchen,75838
+2025-11-01,2,Office Supplies,81473
+2025-11-01,3,Electronics,36887
+2025-11-01,3,Furniture,72332
+2025-11-01,3,Home & Kitchen,48031
+2025-11-01,3,Office Supplies,59604
+2025-11-01,4,Electronics,64431
+2025-11-01,4,Furniture,63921
+2025-11-01,4,Home & Kitchen,36809
+2025-11-01,4,Office Supplies,74253
+2025-11-01,5,Electronics,67906
+2025-11-01,5,Furniture,69949
+2025-11-01,5,Home & Kitchen,61989
+2025-11-01,5,Office Supplies,60507
+2025-11-01,6,Electronics,41651
+2025-11-01,6,Furniture,60884
+2025-11-01,6,Home & Kitchen,41843
+2025-11-01,6,Office Supplies,77816
+2025-11-01,7,Electronics,28009
+2025-11-01,7,Furniture,25594
+2025-11-01,7,Home & Kitchen,68727
+2025-11-01,7,Office Supplies,68077
+2025-11-01,8,Electronics,58573
+2025-11-01,8,Furniture,58939
+2025-11-01,8,Home & Kitchen,27088
+2025-11-01,8,Office Supplies,75297
+2025-11-01,9,Electronics,75831
+2025-11-01,9,Furniture,37326
+2025-11-01,9,Home & Kitchen,25934
+2025-11-01,9,Office Supplies,56520
+2025-11-01,10,Electronics,40163
+2025-11-01,10,Furniture,32658
+2025-11-01,10,Home & Kitchen,31763
+2025-11-01,10,Office Supplies,64562
+2025-11-01,11,Electronics,46548
+2025-11-01,11,Furniture,70826
+2025-11-01,11,Home & Kitchen,43859
+2025-11-01,11,Office Supplies,62411
+2025-12-01,1,Electronics,41327
+2025-12-01,1,Furniture,58286
+2025-12-01,1,Home & Kitchen,66937
+2025-12-01,1,Office Supplies,45602
+2025-12-01,2,Electronics,78278
+2025-12-01,2,Furniture,63387
+2025-12-01,2,Home & Kitchen,37088
+2025-12-01,2,Office Supplies,78970
+2025-12-01,3,Electronics,54919
+2025-12-01,3,Furniture,68285
+2025-12-01,3,Home & Kitchen,45745
+2025-12-01,3,Office Supplies,26377
+2025-12-01,4,Electronics,58794
+2025-12-01,4,Furniture,55523
+2025-12-01,4,Home & Kitchen,68431
+2025-12-01,4,Office Supplies,69185
+2025-12-01,5,Electronics,66297
+2025-12-01,5,Furniture,55249
+2025-12-01,5,Home & Kitchen,25365
+2025-12-01,5,Office Supplies,60481
+2025-12-01,6,Electronics,81987
+2025-12-01,6,Furniture,79695
+2025-12-01,6,Home & Kitchen,29882
+2025-12-01,6,Office Supplies,77437
+2025-12-01,7,Electronics,33666
+2025-12-01,7,Furniture,29878
+2025-12-01,7,Home & Kitchen,26585
+2025-12-01,7,Office Supplies,55633
+2025-12-01,8,Electronics,35604
+2025-12-01,8,Furniture,62338
+2025-12-01,8,Home & Kitchen,53012
+2025-12-01,8,Office Supplies,76121
+2025-12-01,9,Electronics,37632
+2025-12-01,9,Furniture,40930
+2025-12-01,9,Home & Kitchen,56056
+2025-12-01,9,Office Supplies,33391
+2025-12-01,10,Electronics,52493
+2025-12-01,10,Furniture,60829
+2025-12-01,10,Home & Kitchen,62034
+2025-12-01,10,Office Supplies,53056
+2025-12-01,11,Electronics,31060
+2025-12-01,11,Furniture,40462
+2025-12-01,11,Home & Kitchen,29284
+2025-12-01,11,Office Supplies,81575

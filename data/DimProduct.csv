@@ -1,0 +1,27 @@
+ProductKey,ProductName,Category,Subcategory,Brand,UnitPrice,UnitCost
+1001,Laptop,Electronics,Laptop,Northstar,118.0,71.14
+1002,Monitor,Electronics,Monitor,Aster,931.0,670.7
+1003,Keyboard,Electronics,Keyboard,Oakline,114.0,57.73
+1004,Mouse,Electronics,Mouse,Nimbus,840.0,632.67
+1005,Headphones,Electronics,Headphones,Nimbus,886.0,620.29
+1006,Webcam,Electronics,Webcam,Vertex,916.0,472.54
+1007,Tablet,Electronics,Tablet,Northstar,1009.0,589.08
+1008,Printer,Electronics,Printer,Northstar,547.0,404.5
+1009,Office Chair,Furniture,Office Chair,CoreTech,940.0,667.75
+1010,Desk,Furniture,Desk,Aster,776.0,468.83
+1011,Bookshelf,Furniture,Bookshelf,Aster,547.0,347.5
+1012,Sofa,Furniture,Sofa,Northstar,281.0,139.9
+1013,Coffee Table,Furniture,Coffee Table,Nimbus,1031.0,677.23
+1014,Filing Cabinet,Furniture,Filing Cabinet,Nimbus,995.0,688.8
+1015,Blender,Home & Kitchen,Blender,Aster,844.0,634.52
+1016,Coffee Maker,Home & Kitchen,Coffee Maker,Nimbus,433.0,316.12
+1017,Cookware Set,Home & Kitchen,Cookware Set,CoreTech,817.0,436.69
+1018,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Nimbus,936.0,571.6
+1019,Air Fryer,Home & Kitchen,Air Fryer,UrbanNest,603.0,315.49
+1020,Toaster,Home & Kitchen,Toaster,Oakline,64.0,42.96
+1021,Notebook,Office Supplies,Notebook,Aster,1107.0,831.25
+1022,Pen Set,Office Supplies,Pen Set,Vertex,896.0,511.82
+1023,Stapler,Office Supplies,Stapler,CoreTech,1087.0,664.67
+1024,Paper Pack,Office Supplies,Paper Pack,BrightWorks,452.0,240.94
+1025,Desk Organizer,Office Supplies,Desk Organizer,Oakline,561.0,344.0
+1026,Whiteboard,Office Supplies,Whiteboard,Vertex,166.0,90.23

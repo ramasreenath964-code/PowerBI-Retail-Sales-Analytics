@@ -1,0 +1,56 @@
+-- Create these measures in Power BI. Base sales include zero-value Returned/Cancelled rows.
+Total Sales = SUM(FactSales[SalesAmount])
+
+Total Cost = SUM(FactSales[CostAmount])
+
+Total Profit = SUM(FactSales[Profit])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+
+Total Orders = DISTINCTCOUNT(FactSales[SalesID])
+
+Units Sold = SUMX(FILTER(FactSales, FactSales[OrderStatus] = "Completed"), FactSales[Quantity])
+
+Average Order Value = DIVIDE([Total Sales], CALCULATE([Total Orders], FactSales[OrderStatus] = "Completed"), 0)
+
+Completed Orders = CALCULATE(DISTINCTCOUNT(FactSales[SalesID]), FactSales[OrderStatus] = "Completed")
+
+Returned Orders = CALCULATE(DISTINCTCOUNT(FactSales[SalesID]), FactSales[OrderStatus] = "Returned")
+
+Return Rate % = DIVIDE([Returned Orders], [Total Orders], 0)
+
+Average Discount % = AVERAGE(FactSales[DiscountPct])
+
+Sales Previous Year = CALCULATE([Total Sales], SAMEPERIODLASTYEAR(DimDate[Date]))
+
+Sales YoY Change = [Total Sales] - [Sales Previous Year]
+
+Sales YoY Growth % = DIVIDE([Sales YoY Change], [Sales Previous Year], 0)
+
+Sales YTD = TOTALYTD([Total Sales], DimDate[Date])
+
+Profit YTD = TOTALYTD([Total Profit], DimDate[Date])
+
+-- Targets: connect shared month, region and category dimensions to FactTargets.
+Sales Target = SUM(FactTargets[SalesTarget])
+
+Target Variance = [Total Sales] - [Sales Target]
+
+Target Attainment % = DIVIDE([Total Sales], [Sales Target], 0)
+
+-- Customer measures
+Total Customers = DISTINCTCOUNT(FactSales[CustomerKey])
+
+Repeat Customers =
+COUNTROWS(
+    FILTER(
+        VALUES(FactSales[CustomerKey]),
+        CALCULATE(DISTINCTCOUNT(FactSales[SalesID]), FactSales[OrderStatus] = "Completed") > 1
+    )
+)
+
+Repeat Customer % = DIVIDE([Repeat Customers], [Total Customers], 0)
+
+-- Optional visual helper
+Sales Rank by Product =
+RANKX(ALL(DimProduct[ProductName]), [Total Sales], , DESC, DENSE)

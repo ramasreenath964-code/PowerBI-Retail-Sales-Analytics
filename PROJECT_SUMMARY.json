@@ -1,0 +1,29 @@
+{
+  "FactSales_rows": 8000,
+  "DimProduct_rows": 26,
+  "DimCustomer_rows": 500,
+  "DimRegion_rows": 11,
+  "DimDate_rows": 1096,
+  "FactTargets_rows": 1584,
+  "total_sales_inr": 21302488.8,
+  "total_profit_inr": 5748877.49,
+  "files": [
+    ".gitignore",
+    "README.md",
+    "powerbi/DAX_Measures.dax",
+    "powerbi/Power_Query_M_Examples.m",
+    "sql/analysis_queries.sql",
+    "portfolio_website/README.md",
+    "portfolio_website/index.html",
+    "docs/DATA_DICTIONARY.md",
+    "docs/BUILD_GUIDE.md",
+    "docs/DATA_MODEL.md",
+    "docs/GITHUB_AND_PORTFOLIO.md",
+    "data/DimDate.csv",
+    "data/FactTargets.csv",
+    "data/DimProduct.csv",
+    "data/FactSales.csv",
+    "data/DimRegion.csv",
+    "data/DimCustomer.csv"
+  ]
+}
